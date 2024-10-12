@@ -58,7 +58,7 @@
 				<h2 class="title"><a href="#">LMS Blog Posts</a></h2>				
 	<!-- Default Page Content (contact form) -->
 				<div class="post">
-					<h2 class="title"><a href="#">Welcome to Boldness</a> v.2</h2>
+					<h2 class="title"><a href="#">Welcome to Lost and Found Management Blog</a> v.2</h2>
 					<p class="meta">Posted by <a href="#">Someone</a> on April 22, 2012
 						&nbsp;&bull;&nbsp; <a href="#" class="comments">Comments (64)</a> &nbsp;&bull;&nbsp; <a href="#" class="permalink">Full article</a></p>
 					<div class="entry">
